@@ -82,6 +82,8 @@ The competition provided:
 - Detailed problem overview and evaluation metrics
 - Sample submission code
 
+Some of the features used in this project were inspired by the following research paper - Yin, J., & Wong, H. Y. (2023). The relevance of features to limit order book learning, available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4226309). This paper provides valuable insights into feature engineering for limit order book data and has influenced our approach to this competition.
+
 For more details, refer to the [competition page](https://www.kaggle.com/competitions/taramani-quant-research-contest-tqrc/).
 
 ## Requirements
