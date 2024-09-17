@@ -74,6 +74,8 @@ $$\huge r = \frac{\sum_{i=1}^n (x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^
 
 where $x_i$ are the predicted returns, $y_i$ are the actual returns, and $\bar{x}$ and $\bar{y}$ are their respective means.
 
+My model achieved a correlation of **0.42946** on the entire test data, with the highest achieved in the contest being **0.44840**.
+
 ## Resources
 
 The competition provided:
