@@ -1,6 +1,5 @@
-# Taramani Quant Research Contest (TQRC) Submission
-
-This repository contains my submission for the [Taramani Quant Research Contest (TQRC)](https://www.kaggle.com/competitions/taramani-quant-research-contest-tqrc/) on Kaggle.
+# Predicting Alpha Contest
+This repository contains my submission for the Inter IIT Quant Guild Selection Contest [here](https://www.kaggle.com/competitions/taramani-quant-research-contest-tqrc/) on Kaggle.
 This contest is part of the Inter-IIT Quant Guild selection process. It is the second of two problems presented for the selection, focusing on quantitative trading strategies using limit order book data.
 
 ## Files
